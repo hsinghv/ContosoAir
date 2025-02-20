@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/AppInnovation-48479347/GitHub%20Integration/_apis/build/status%2Fhsinghv.ContosoAir%20(6)?branchName=master)](https://dev.azure.com/AppInnovation-48479347/GitHub%20Integration/_build/latest?definitionId=6&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
